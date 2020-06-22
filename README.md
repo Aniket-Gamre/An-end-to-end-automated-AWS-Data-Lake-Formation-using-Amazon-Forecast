@@ -37,6 +37,6 @@ Amazon QuickSight- perform ad hoc analysis, and get insights from your data.
 You can make use of the sample bookings dataset provided in this repository that can be uploaded into your s3 bucket for completion of this tutorial. 
 
 
-## Disclaimer:
+## Resources:
 This repository contains information, text, images that are referred from AWS resources and other learning platforms.
 
