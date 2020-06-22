@@ -31,7 +31,7 @@ Amazon QuickSight- perform ad hoc analysis, and get insights from your data.
 
 
 ## Representation of the solution:
-<img src = "Data flow diagram.PNG">
+<img src = "Data Flow Diagrams/Final Solution">
 
 ## Note: 
 You can make use of the sample bookings dataset provided in this repository that can be uploaded into your s3 bucket for completion of this tutorial. 
