@@ -1,0 +1,7 @@
+## Setting up your data lake storage
+
+On the Amazon S3 console, create the following buckets:
+- bookingsdata-landing
+- bookingsdata-processed
+- bookingsdata-pblished
+
