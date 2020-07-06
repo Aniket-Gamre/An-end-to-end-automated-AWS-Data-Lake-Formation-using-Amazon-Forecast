@@ -16,6 +16,11 @@ You will need three S3 buckets for the purpose of this tutorial.
 
 4. On the lake Formation dashboard, Choose **Register Location**.
 
-<img src = "Register Location.png">
+![Register Location](https://github.com/Aniket-Gamre/An-end-to-end-automated-AWS-Data-Lake-Formation-using-Amazon-Forecast/blob/master/Design-flow%20diagrams/Register%20Location.png)
+
+![Register Location](https://github.com/Aniket-Gamre/An-end-to-end-automated-AWS-Data-Lake-Formation-using-Amazon-Forecast/blob/master/Design-flow%20diagrams/Register%20Location_S3%20Location%20and%20IamRole.png)
+
+
+
 
 5. The above steps could be repeated for the other two buckets- **processed , published**.
