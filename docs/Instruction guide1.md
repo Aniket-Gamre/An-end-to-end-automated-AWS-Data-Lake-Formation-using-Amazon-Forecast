@@ -16,4 +16,6 @@ You will need three S3 buckets for the purpose of this tutorial.
 
 4. On the lake Formation dashboard, Choose **Register Location**.
 
+<img src = "Design-flow diagrams/Register Location.png">
+
 5. The above steps could be repeated for the other two buckets- **processed , published**.
