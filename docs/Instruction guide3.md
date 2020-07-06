@@ -28,4 +28,5 @@ Example: bookings-db with bookings history already loaded.
                   
 3. On the connections page, test the Glue connection by selecting it and clicking Test connection
 4. Select the appropriate workflow role from IAM role drop down and click Test connection
-5. Once the connection is successful, proceed to the next steps.
+
+Once this connection is successful, you can now proceed to the next steps.
