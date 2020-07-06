@@ -15,20 +15,15 @@ This tutorial intends to build an automated forecasting capability for bookings 
 
 ## AWS Services used:
 
-Amazon S3 (Simple Storage Service) - used to store and protect any amount of data, from anywhere in the web.
-
-AWS Lake Formation- a service that makes it easy to set up a secure data lake in days.
-
-Amazon Relational Database Service (RDS) - optimised for memory, performance that can scale a relational database in the cloud. 
-
-AWS Glue - ETL service to categorize data for cleaning, enriching and transforming between various data stores.
-
-Amazon Forecast- an AWS AI service that uses machine learning to generate forecasts from your data.
-
-Athena- for querying the data you import into your data lake.
-
-Amazon QuickSight- perform ad hoc analysis, and get insights from your data.
-
+AWS Services                        | Description
+------------                        | -------------
+Amazon S3 (Simple Storage Service)  | used to store and protect any amount of data, from anywhere in the web.
+AWS Lake Formation | service that makes it easy to set up a secure data lake in days.
+Amazon Relational Database Service (RDS) | optimised for memory, performance that can scale a relational database in the cloud. 
+AWS Glue | ETL service to categorize data for cleaning, enriching and transforming between various data stores.
+Amazon Forecast | an AWS AI service that uses machine learning to generate forecasts from your data.
+Athena | for querying the data you import into your data lake.
+Amazon QuickSight | perform ad hoc analysis, and get insights from your data.
 
 ## Representation of the solution:
 <img src = "Final Solution.PNG">
