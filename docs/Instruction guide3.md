@@ -12,7 +12,7 @@ Example: bookings-db with bookings history already loaded.
                
                - Database engine: MYSQL
                
-                 Click **Next**
+                 Click Next
                  
                - Instance : bookings-db (Note: This has to be the name of your instance that you have created)
                
@@ -22,9 +22,9 @@ Example: bookings-db with bookings history already loaded.
                
                - Password: Enter your password
                
-                  Click **Next**
+                 Click Next
                   
-                  Click **Finish**
+                 Click Finish
                   
 3. On the connections page, test the Glue connection by selecting it and clicking Test connection
 4. Select the appropriate workflow role from IAM role drop down and click Test connection
