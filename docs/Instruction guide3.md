@@ -5,6 +5,7 @@ Example: bookings-db with bookings history already loaded.
 ## Setup a Glue Connection to the source database:
 1. Open the AWS Glue console, under Data catalog, choose Connections 
 2. Choose add connection and choose to enter the following:
+               
                - Connection name: bookings-db-conn
                
                - Connection type: Amazon RDS
