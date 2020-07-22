@@ -25,4 +25,5 @@ For doing so, you will need to create three databases in the Lake Formation data
 
 11. Choose **Grant**
 
+
 So far, the data lake has been setup with Lake Formation.
