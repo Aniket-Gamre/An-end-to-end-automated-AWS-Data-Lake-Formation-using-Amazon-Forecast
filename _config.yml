@@ -2,7 +2,7 @@ title: An-end-to-end-automated-aws-data-lake-formation-using-amazon-forecast
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
